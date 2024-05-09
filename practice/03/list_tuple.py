@@ -46,3 +46,4 @@ if __name__ == "__main__":
     tuple = (1,3, 2,  4, 5, 6)
     print(list(reversed(tuple))) # 转为列表
     print(sorted(tuple))
+
